@@ -1,4 +1,4 @@
-RegistrodeVendas
+RegistrodeVendas - Por Nayara e Nirvana
 ================
 
 Atividade POO - java
